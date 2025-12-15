@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/collaborative-task-manager-379-390/backend_api"
+}
